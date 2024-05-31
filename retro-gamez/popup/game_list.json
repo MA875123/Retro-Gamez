@@ -173,5 +173,21 @@
 		"id": 35,
 		"title": "FIFA 2000",
 		"src": "https://www.retrogames.cc/embed/41776-fifa-2000.html"
+	},
+	{
+		"id": 36,
+		"title": "Sonic the Hedgehog 2 (World)",
+		"src": "https://www.retrogames.cc/embed/18468-sonic-the-hedgehog-2-world.html"
+	},
+	{
+		"id": 37,
+		"title": "Sonic the Hedgehog 2 (Europe)",
+		"src": "https://www.retrogames.cc/embed/30900-sonic-the-hedgehog-2-europe.html"
+	},
+	{
+	
+		"id": 38,
+		"title": "Sonic The Hedgehog (USA, Europe)",
+		"src": "https://www.retrogames.cc/embed/30899-sonic-the-hedgehog-usa-europe.html"
 	}
 ]
